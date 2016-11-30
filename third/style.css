@@ -1,0 +1,55 @@
+.main{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.row1{
+background-color: lightgray;
+width: 100%;
+height: 15vh;
+}
+
+.row2{
+background-color: white;
+width: 100%;
+height: 25vh;
+}
+
+.row3{
+background-color: #3A9CFF;
+width: 100%;
+height: 15vh;
+}
+
+.row4{
+background-color: #5BFFE6;
+width: 100%;
+height: 15vh;
+}
+
+.row5{
+background-color: lightgreen;
+width: 100%;
+height: 15vh;
+}
+
+.row6{
+background-color: yellow;
+width: 100%;
+height: 15vh;
+}
+
+.bluebox{
+  background-color: skyblue;
+  width: 10vw;
+  height: 10vh;
+}
+
+.text{
+text-align: left;
+color: black;
+font-size: 24px;
+padding: 50px 50px 50px 50px;
+
+}
